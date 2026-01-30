@@ -1,3 +1,3 @@
 # Hi 👋
 
-I make various things!
+I make *things*.
